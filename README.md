@@ -127,6 +127,8 @@ The frontend requires the backend server to be running.
 
 The backend should be running at `http://localhost:5000` by default.
 
+create .env file and add variable VITE_API_URL=`http://localhost:5000/api/media`
+
 ---
 
 ## 🛠 Troubleshooting
